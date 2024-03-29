@@ -15,9 +15,7 @@ This project aims to create a basic desktop voice assistant using Python. The as
    cd ai-desktop-voice-assistant](https://github.com/AritraOfficial/AI_Desktop_Voice_Assistant_Project_0.0.git)
    ```
 
-
-
-3. **Run the Application:**
+**Run the Application:**
    ```
    python main.py
    ```
